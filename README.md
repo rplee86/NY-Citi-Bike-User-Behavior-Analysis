@@ -5,7 +5,7 @@ In this data analytics project, I use open source data from [NY Citi Bike](https
 - 03 Scripts: Contains all python scripts used to clean and analyze the data.
 
 ## Open Source Data
-- [March 2019 NY Citi Bike trip data](https://s3.amazonaws.com/tripdata/201903-citibike-tripdata.csv.zip)
+[March 2019 NY Citi Bike trip data](https://s3.amazonaws.com/tripdata/201903-citibike-tripdata.csv.zip)
 
 ## Tableau Storyboard Presentation
-Link to my [Tableau Storyboard Presentation](https://public.tableau.com/app/profile/ryan.lee1243/viz/NYCitiBikeUserBehaviorAnalysis/NYCitiBikeStory?publish=yes)
+Coming Soon
