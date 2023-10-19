@@ -9,4 +9,5 @@ In this data analytics project, I use open source data from [NY Citi Bike](https
 
 ## Tableau Storyboard Presentation
 This storyboard doesn’t contain every insight I uncovered in my python scripts; it contains only those that were relevant to the final results.
+
 Link to my [Tableau Storyboard Presentation](https://public.tableau.com/app/profile/ryan.lee1243/viz/NYCitiBikeUserBehaviorAnalysis/NYCitiBikeStory)
