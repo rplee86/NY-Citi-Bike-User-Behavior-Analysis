@@ -1,5 +1,5 @@
 ## Python Data Analytics Project
-In this data analytics project, I use open source data from [NY Citi Bike](https://citibikenyc.com/) to uncover information about NY Citi Bike's customer base and how they use NY Citi Bikes for the month of March in the year 2019. The relevant insights I uncover are then used to build an interactive dashboard via [Tableau](https://public.tableau.com/). This repository contains the following folders:
+In this data analytics project, I use open source data from [NY Citi Bike](https://citibikenyc.com/) to uncover information about NY Citi Bike's customer base and how they use NY Citi Bikes for the month of March in the year 2019. The relevant insights I uncover are then used to build a storyboard via [Tableau](https://public.tableau.com/). This repository contains the following folders:
 - 01 Project Information
 - 02 Data: Contains a .geojson file of New York City
 - 03 Scripts: Contains python scripts used to clean and analyze the data
