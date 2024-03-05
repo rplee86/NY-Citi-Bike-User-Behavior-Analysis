@@ -34,6 +34,7 @@ The project aims to uncover information about the customer base of [NY Citi Bike
 Data [visualizations](https://github.com/ryanpatricklee/User-Behavior-Analysis/tree/main/04%20Visualizations) created using
 - matplotlib
 - seaborn
+- scikit-learn
 
 Visualizations were then recreated in Tableau to create a storyboard. The storyboard doesn’t contain every insight uncovered in python analysis; it contains only those that were relevant to the final results.
 
