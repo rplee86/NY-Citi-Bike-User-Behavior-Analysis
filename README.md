@@ -36,7 +36,7 @@ Data [visualizations](https://github.com/ryanpatricklee/User-Behavior-Analysis/t
 - seaborn
 - scikit-learn
 
-Visualizations were then recreated in Tableau to create a storyboard. The storyboard doesn’t contain every insight uncovered in python analysis; it contains only those that were relevant to the final results.
+Visualizations were then recreated in Tableau to create a storyboard. The storyboard doesn’t contain every insight uncovered in the python analysis; it contains only those that were relevant to the storyboard.
 
 ## Data
 [March 2019 NY Citi Bike trip data](https://s3.amazonaws.com/tripdata/201903-citibike-tripdata.csv.zip)
